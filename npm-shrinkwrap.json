@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "cron": {
+      "version": "1.0.1",
+      "from": "cron@"
+    },
+    "faye-websocket": {
+      "version": "0.4.3",
+      "from": "faye-websocket@"
+    },
+    "fs": {
+      "version": "0.0.0",
+      "from": "fs@0.0.0",
+      "resolved": "https://registry.npmjs.org/fs/-/fs-0.0.0.tgz"
+    },
+    "http": {
+      "version": "0.0.0",
+      "from": "http@0.0.0",
+      "resolved": "https://registry.npmjs.org/http/-/http-0.0.0.tgz"
+    },
+    "path": {
+      "version": "0.4.9",
+      "from": "path@0.4.9",
+      "resolved": "https://registry.npmjs.org/path/-/path-0.4.9.tgz"
+    },
+    "xml2js": {
+      "version": "0.2.3",
+      "from": "xml2js@",
+      "resolved": "https://registry.npmjs.org/xml2js/-/xml2js-0.2.3.tgz",
+      "dependencies": {
+        "sax": {
+          "version": "0.5.1",
+          "from": "sax@>=0.4.2",
+          "resolved": "https://registry.npmjs.org/sax/-/sax-0.5.1.tgz"
+        }
+      }
+    }
+  }
+}
